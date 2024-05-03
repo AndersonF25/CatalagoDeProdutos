@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Relógio Elegante",
+    "price": 50.99,
+    "image": "https://source.unsplash.com/featured/?watch"
+  },
+  {
+    "id": 2,
+    "name": "Câmera Vintage",
+    "price": 85.59,
+    "image": "https://source.unsplash.com/featured/?camera"
+  },
+  {
+    "id": 3,
+    "name": "Fones de Ouvido",
+    "price": 35.99,
+    "image": "https://source.unsplash.com/featured/?headphones"
+  },
+  {
+    "id": 4,
+    "name": "Tênis de Corrida",
+    "price": 120.99,
+    "image": "https://source.unsplash.com/featured/?sneakers"
+  },
+  {
+    "id": 5,
+    "name": "Smartphone",
+    "price": 299.99,
+    "image": "https://source.unsplash.com/featured/?smartphone"
+  },
+  {
+    "id": 7,
+    "name": "Bolsa",
+    "price": 89.99,
+    "image": "https://source.unsplash.com/featured/?bag"
+  },
+  {
+    "id": 8,
+    "name": "Boné",
+    "price": 29.99,
+    "image": "https://source.unsplash.com/featured/?cap"
+  },
+  {
+    "id": 9,
+    "name": "Calça jeans",
+    "price": 79.99,
+    "image": "https://source.unsplash.com/featured/?pants"
+  },
+  {
+    "id": 10,
+    "name": "Camiseta",
+    "price": 39.99,
+    "image": "https://source.unsplash.com/featured/?T-shirt"
+  },
+  {
+    "id": 11,
+    "name": "Bermuda",
+    "price": 29.99,
+    "image": "https://source.unsplash.com/featured/?shorts"
+  },
+  {
+    "id": 12,
+    "name": "Meias",
+    "price": 19.99,
+    "image": "https://source.unsplash.com/featured/?socks"
+  },
+  {
+    "id": 13,
+    "name": "Saia",
+    "price": 59.99,
+    "image": "https://source.unsplash.com/featured/?skirt"
+  },
+  {
+    "id": 14,
+    "name": "Terno",
+    "price": 129.99,
+    "image": "https://source.unsplash.com/featured/?suit"
+  },
+  {
+    "id": 15,
+    "name": "Gravata",
+    "price": 39.99,
+    "image": "https://source.unsplash.com/featured/?tie"
+  },
+  {
+    "id": 16,
+    "name": "Colete",
+    "price": 149.99,
+    "image": "https://source.unsplash.com/featured/?waistcoat"
+  },
+  {
+    "id": 17,
+    "name": "Sobretudo",
+    "price": 179.99,
+    "image": "https://source.unsplash.com/featured/?overcoat"
+  }
+]
